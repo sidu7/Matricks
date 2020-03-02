@@ -9,6 +9,8 @@ This game is a 2D math puzzle platformer, targeting kids. The game is about a sc
 
 **TARGET AUDIENCE:** Kids (6-8 yr old)
 
+**Trailer:** https://youtu.be/r6RL3_FegAk
+
 **RATING:** EC
 
 **Thank you for playing!**
