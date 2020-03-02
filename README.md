@@ -11,6 +11,8 @@ This game is a 2D math puzzle platformer, targeting kids. The game is about a sc
 
 **Trailer:** https://youtu.be/r6RL3_FegAk
 
+**Download [here](https://drive.google.com/file/d/1tLiFjqnp7-oN8h379V7xKZs7ExPERRQ1/view?usp=sharing)!**
+
 **RATING:** EC
 
 **Thank you for playing!**
